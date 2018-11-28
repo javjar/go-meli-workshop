@@ -3,7 +3,7 @@ package node_test
 import (
 	"testing"
 
-	"github.com/javjar/go-meli-workshop/class2/first/node"
+	"github.com/javjar/go-meli-workshop/class2/third/node"
 )
 
 func TestAdd(t *testing.T) {

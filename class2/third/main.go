@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/javjar/go-meli-workshop/class2/first/node"
+	"github.com/javjar/go-meli-workshop/class2/third/node"
 )
 
 func main() {
@@ -30,6 +30,3 @@ func main() {
 
 	node.PrintAll(n)
 }
-
-// TODO:
-// - `go run main.go 1 2 3 4 5 6 7` produces 01234567 ???
